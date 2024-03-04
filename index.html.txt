@@ -1,0 +1,38 @@
+index.html
+<!DOCTYPE html>
+
+
+<html> 
+
+   <head>
+
+	<title>My Personal Introduction</title>
+	
+      <style> 
+
+      <body>
+          F6EEB8
+      </Body>
+    
+      <h1>
+	 648F7F
+      </h1>
+
+ <p>
+2C2336
+</p>
+
+  </head> 
+
+
+</html> 
+
+
+<body>
+  
+	<h1>My Name is Kiisnyc</h1>
+
+  <p>I am the mother of a two year old boy. I love taking walks early in the morning. In my free time I tend to my plants.</p>
+</body>
+  
+
