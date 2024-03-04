@@ -11,15 +11,15 @@ index.html
       <style> 
 
       <body>
-          F6EEB8
+          3E1F32
       </Body>
     
       <h1>
-	 648F7F
+	 DEBCB0
       </h1>
 
  <p>
-2C2336
+BE5729
 </p>
 
   </head> 
