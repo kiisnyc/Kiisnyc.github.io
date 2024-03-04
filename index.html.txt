@@ -1,38 +1,24 @@
-index.html
+
 <!DOCTYPE html>
-
-
 <html> 
+<head>
+<body><h1> My name is Kiisnyc</h1>
+<p>I am the mother of a two year old boy. I love taking walks early in the morning. In my free time I tend to my plants.</p></body>
+</head>
+<title>My Personal Introduction</title> 
+<style>
+body{
+background-color:3E1F32;
+}
 
-   <head>
+h1{
+color:DEBCB0;
+}
 
-	<title>My Personal Introduction</title>
-	
-      <style> 
-
-      <body>
-          3E1F32
-      </Body>
-    
-      <h1>
-	 DEBCB0
-      </h1>
-
- <p>
-BE5729
-</p>
-
-  </head> 
-
-
+p{
+color:BE5729
+} 
+</style>
 </html> 
 
-
-<body>
-  
-	<h1>My Name is Kiisnyc</h1>
-
-  <p>I am the mother of a two year old boy. I love taking walks early in the morning. In my free time I tend to my plants.</p>
-</body>
-  
 
