@@ -3,17 +3,9 @@
 <head>
 <title>My Personal Introduction</title>
 <style>
-body{
-	background-color:3E1F32
-}
-
-h1{
-	color:DEBCB0
-}
-
-p{
-	color:BE5729
-} 
+body{background-color:3E1F32}
+h1{color:DEBCB0}
+p{color:BE5729} 
 </style>
 </head>
 <body>
