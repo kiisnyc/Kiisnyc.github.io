@@ -2,25 +2,25 @@
 <!DOCTYPE html>
 <html> 
 <head>
-<h1>My name is Kiisnyc</h1>
-<body>
-<p>I am the mother of a two year old boy. I love taking walks early in the morning. In my free time I tend to my plants.</p>
-</body>
-</head>
-<title>My Personal Introduction</title> 
+<title>My Personal Introduction</title>
 <style>
 body{
-background-color:3E1F32
+	background-color:3E1F32
 }
 
 h1{
-color:DEBCB0
+	color:DEBCB0
 }
 
 p{
-color:BE5729
+	color:BE5729
 } 
 </style>
+</head>
+<body>
+<h1>My name is Kiisnyc</h1>
+<p>I am the mother of a two year old boy. I love taking walks early in the morning. In my free time I tend to my plants.</p>
+</body>
 </html> 
 
 
